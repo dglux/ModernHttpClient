@@ -1,6 +1,8 @@
 ModernHttpClient
 ================
 
+:exclamation: Not supported outside of DGLogik. :exclamation:
+
 This library brings the latest platform-specific networking libraries to
 Xamarin applications via a custom HttpClient handler. Write your app using
 System.Net.Http, but drop this library in and it will go drastically faster.
